@@ -1,4 +1,7 @@
 # Algoritmos
-Compilado de algoritmos uteis
+Compilado de algoritmos para estudos
 
-algoritmo.c => Calculadora de analise combinatoria 
+Calculo
+
+Linguagem de Programação - C
+[clique aqui](./linguagem_de_programacao/README.md)
